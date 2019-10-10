@@ -1,9 +1,17 @@
 # ZS-Data-Science-Challenge---2019
 
-My submission got Rank 9 with a score of 0.963
-![Alt text](https://github.com/Avinash987/ZS-Challenge-2019/blob/master/Capture.PNG? raw=true "Title")
+### My submission got Rank 9 with a score of 0.963
+<img align="left" src="https://github.com/Avinash987/ZS-Challenge-2019/blob/master/Capture.PNG">
 
-Scoreboard - ZS Data Science Challenge - 2019
+
+
+
+
+
+
+
+
+### Scoreboard - ZS Data Science Challenge - 2019
 https://www.interviewbit.com/contest/zs-yds-2019/scoreboard
 
 ## ABOUT CONTEST:
